@@ -44,7 +44,7 @@ img {
     border-radius: 20px;
     background-color: rgba(54, 54, 54, 0.537);
     backdrop-filter: blur(10px);
-
+    -webkit-backdrop-filter: blur(10px);
 }
 .video{
     max-width: 1120px;
