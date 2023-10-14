@@ -26,6 +26,9 @@ p {
 img {
     width: 100%;
 }
+footer{
+    margin-top: 100px;
+}
 .destacar {
     
     background-color: orangered;
